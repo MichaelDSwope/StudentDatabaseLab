@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\bin\Debug\net6.0\Student Database Arrays.exe
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\bin\Debug\net6.0\Student Database Arrays.deps.json
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\bin\Debug\net6.0\Student Database Arrays.runtimeconfig.json
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\bin\Debug\net6.0\Student Database Arrays.dll
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\bin\Debug\net6.0\Student Database Arrays.pdb
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.AssemblyInfo.cs
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.dll
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\refint\Student Database Arrays.dll
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.pdb
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\Student Database Arrays.genruntimeconfig.cache
+C:\Users\Digit\source\repos\Student Database Arrays\Student Database Arrays\obj\Debug\net6.0\ref\Student Database Arrays.dll
